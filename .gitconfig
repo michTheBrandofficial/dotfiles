@@ -1,0 +1,15 @@
+[core]
+	editor = \"C:\\Users\\Charles\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = michTheBrandofficial
+	email = 120549491+michTheBrandofficial@users.noreply.github.com
+[safe]
+	directory = C:/Users/Charles/Desktop/FOLDERS/react projects/my-react-app
+	directory = C:/Users/Charles/Desktop/FOLDERS/react projects/my-react-app
+	directory = C:/Users/Charles/Desktop/My finished projects/Payment checkout
+	directory = C:/Users/Charles/Desktop/My finished projects/rock, paper, scissors
+	directory = C:/Users/Charles/Desktop/My finished projects/tip-calculator
+[http]
+	postBuffer = 524288000
+	lowSpeedLimit = 0
+	lowSpeedTime = 999999
