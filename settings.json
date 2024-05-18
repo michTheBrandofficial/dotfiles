@@ -1,0 +1,87 @@
+{
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "Noctis Uva",
+  "workbench.iconTheme": "quill-icons-minimal",
+  "editor.cursorStyle": "block",
+  "editor.fontSize": 15,
+  "editor.lineHeight": 1.9,
+  "editor.fontWeight": "normal",
+  "editor.fontFamily": "'Recursive Mono Casual Static'",
+  "editor.fontLigatures": true,
+  "editor.fontVariations": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "css"
+  },
+  "prettier.semi": true,
+  "colorize.languages": [
+    "css",
+    "sass",
+    "scss",
+    "less",
+    "postcss",
+    "sss",
+    "stylus",
+    "xml",
+    "svg",
+    "javascript",
+    "typescript",
+    "typescriptreact"
+  ],
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "on",
+    "strings": "on"
+  },
+  "git.enableSmartCommit": true,
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": false,
+  "zenMode.hideActivityBar": true,
+  "terminal.integrated.fontSize": 17,
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.cursorStyle": "underline",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleAttributePerLine": true,
+  "prettier.bracketSameLine": true,
+  "prettier.arrowParens": "always",
+  "editor.autoClosingQuotes": "always",
+  "editor.minimap.enabled": false,
+  "editor.minimap.scale": 1,
+  "editor.minimap.size": "fit",
+  "editor.minimap.renderCharacters": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.startupEditor": "none",
+  "workbench.productIconTheme": "icons-carbon",
+  "explorer.confirmDelete": false,
+  "editor.stickyScroll.enabled": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+    // "**/**": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.activityBar.location": "hidden"
+}
