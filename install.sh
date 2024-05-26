@@ -17,6 +17,6 @@ cp -r "./keybindings.json" $CONCATHOMEVSCODEUSERPATH
 cp -r "./settings.json" $CONCATHOMEVSCODEUSERPATH
 
 # COPY GITCONFIG TO ROOT PATH
-cp -r "./gitconfig" "../"
+cp -r "./.gitconfig" "../"
 
 echo "Done copying all files 🙌!!!!"
