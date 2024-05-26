@@ -25,7 +25,7 @@
   }
 ,{
   "key": "ctrl+k ctrl+shift+p",
-  "command": "workbench.action.splitEditor",
+  "command": "workbench.action.splitEditor"
 },
 {
   "key": "ctrl+shift+t r",
